@@ -1,3 +1,0 @@
-voila
-ipywidgets
-pandas
